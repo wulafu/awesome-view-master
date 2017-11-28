@@ -2,6 +2,7 @@ ddddddddd
 dddddddd
 ddddddddd
 ddddddddd
+ddddddddddddddd
 ##  自定义View
 >自定义View主要掌握以下四块内容：  
 1.  绘制机制：掌握onMeasure,onLayout,onDraw及相关类的使用。  
